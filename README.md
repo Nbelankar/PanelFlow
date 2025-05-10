@@ -18,6 +18,7 @@
 ## 🖼️ Preview
 
 ![PanelFlow UI Preview](./src/assets/preview.png)
+![PanelFlow UI Preview](./src/assets/preview2.png)
 
 ---
 
