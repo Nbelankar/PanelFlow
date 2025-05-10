@@ -17,7 +17,7 @@
 
 ## 🖼️ Preview
 
-![PanelFlow UI Preview](./preview.png)
+![PanelFlow UI Preview](./src/assets/preview.png)
 
 ---
 
